@@ -333,7 +333,7 @@ def vCsv(stanjeLige,st_tekem,kat,tek):
         #st_tekem-=1
         f.write('Surname;First name;Cl.name;Class;Time;Pl;Points')
         for i in range(1,st_tekem +1):
-            f.write(';'+'MTBOSOL'+str(i))
+            f.write(';'+'SOL'+str(i))
         f.write(';Sum;Average;ID\n')
         kat1=list(kat)
         kat1.sort()

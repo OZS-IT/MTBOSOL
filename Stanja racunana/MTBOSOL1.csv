@@ -1,4 +1,4 @@
-Surname;First name;Cl.name;Class;Time;Pl;Points;MTBOSOL1;Sum;Average;ID
+Surname;First name;Cl.name;Class;Time;Pl;Points;SOL1;Sum;Average;ID
 Andrejc;Aljoša;OK Slovenj Gradec;M10;0:17:53;1;25;25;25;25;1017
 Jarc;Val;OK Komenda;M10;0:28:26;2;20;20;20;20;1082
 Andrejc;Lenart;OK Slovenj Gradec;M10;0:37:10;3;15;15;15;15;1063
@@ -52,7 +52,7 @@ Cokan;Samo;OK Slovenj Gradec;M21;;;;;0;0;217
 Raj;Gregor;OK Slovenj Gradec;M21;;;;;0;0;282
 Marot;Blaž;OK Slovenj Gradec;M21;mp;;;-;0;0;290
 Štern;Nejc;OK Slovenj Gradec;M21;;;;;0;0;1102
-Bončina;Abigael Vanessa;OK Slovenske Konjice;M21;;;;;0;0;931
+Bauman;Boris;MOK;M21;;;;;0;0;62
 Cankar;Uroš;ŠOK;M21;;;;;0;0;1034
 Petrovič;Dušan;OK Polaris;M45;0:35:39;1;25;25;25;25;69
 Pust;Tomaž;OK Komenda;M45;0:40:29;2;20;20;20;20;893
@@ -70,10 +70,9 @@ Kmetič;Sandi;OK Polaris;M45;;;;;0;0;67
 Benko;Robert;OK Polaris;M45;;;;;0;0;151
 Cimerman;Andrej;OK Polaris;M45;;;;;0;0;444
 Miheljak;Blaž;OK Slovenj Gradec;M45;;;;;0;0;283
-Vodovnik;Mirko;OK Slovenj Gradec;M45;wrongKat;;;*;0;0;288
 Sladič;Roman;ŠOK;M45;wrongKat;;;*;0;0;39
 Eržen;Boris;ŠOK;M45;;;;;0;0;559
-Bauman;Boris;MOK;M45;;;;;0;0;62
+Vodovnik;Mirko;OK Slovenj Gradec;M60;;;;;0;0;288
 Jeraj;Mija;OK Komenda;Ž10;0:22:04;1;25;25;25;25;1040
 Raj;Ida Antonija;OK Slovenj Gradec;Ž10;0:31:21;2;20;20;20;20;1105
 Šuc;Teja;OK Komenda;Ž10;0:37:16;3;15;15;15;15;1001
@@ -117,6 +116,7 @@ Prasnic;Žana;OK Slovenj Gradec;Ž21;mp;;;-;0;0;638
 Mihelič Pogorelčnik;Anja;OK Slovenj Gradec;Ž21;;;;;0;0;1015
 Plavčak;Ana;ŠOK;Ž21;;;;;0;0;401
 Flerin Drevenšek;Mojca;Kamniški OK;Ž21;;;;;0;0;82
+Bončina;Abigael Vanessa;OK Slovenske Konjice;Ž21;;;;;0;0;931
 Zupan;Romana;OK Komenda;Ž45;0:46:15;1;25;25;25;25;713
 Balažič;Irena;OK Slovenj Gradec;Ž45;0:53:29;2;20;20;20;20;298
 Fras;Tina;OK Slovenj Gradec;Ž45;0:54:37;3;15;15;15;15;1000

@@ -22,9 +22,9 @@
 613;Luka;Seljak;OK Komenda;M16;
 884;Jaka;Seljak;OK Komenda;M16;
 897;Jan;Cokan;OK Komenda;M16;
+700;Tilen;Zupan;OK Komenda;M16;
 483;Žiga;Groff;OK Azimut;M18;
 846;Aljaž;Obid;OK Azimut;M18;
-700;Tilen;Zupan;OK Komenda;M18;
 701;Nejc;Turk;OK Komenda;M18;
 956;Matevž;Štifter;OK Slovenj Gradec;M18;
 106;Jožko;Jazbar;OK Azimut;M45;
@@ -42,11 +42,10 @@
 151;Robert;Benko;OK Polaris;M45;
 444;Andrej;Cimerman;OK Polaris;M45;
 283;Blaž;Miheljak;OK Slovenj Gradec;M45;
-288;Mirko;Vodovnik;OK Slovenj Gradec;M45;
 98;Igor;Bončina;OK Slovenske Konjice;M45;
 39;Roman;Sladič;ŠOK;M45;
 559;Boris;Eržen;ŠOK;M45;
-62;Boris;Bauman;MOK;M45;
+288;Mirko;Vodovnik;OK Slovenj Gradec;M60;
 1;Klemen;Kenda;OK Azimut;M21;
 386;Valentin;Eržen;OK Azimut;M21;
 392;Marko;Obid;OK Azimut;M21;
@@ -79,7 +78,7 @@
 957;Tomaž;Pritržnik;OK Slovenj Gradec;M21;
 1102;Nejc;Štern;OK Slovenj Gradec;M21;
 1043;Jaka;Cesar;OK Slovenj Gradec;M21;
-931;Abigael Vanessa;Bončina;OK Slovenske Konjice;M21;
+62;Boris;Bauman;MOK;M21;
 1034;Uroš;Cankar;ŠOK;M21;
 996;Jerca;Kurinčič;OK Komenda;Ž10;
 1001;Teja;Šuc;OK Komenda;Ž10;
@@ -134,3 +133,4 @@
 23;Ana;Pribaković Borštnik;OK Tivoli;Ž21;
 401;Ana;Plavčak;ŠOK;Ž21;
 82;Mojca;Flerin Drevenšek;Kamniški OK;Ž21;
+931;Abigael Vanessa;Bončina;OK Slovenske Konjice;Ž21;
