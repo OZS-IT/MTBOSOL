@@ -1,136 +1,87 @@
-1082;Val;Jarc;OK Komenda;M10;
-1123;Tin;Šuc;OK Komenda;M10;
-1017;Aljoša;Andrejc;OK Slovenj Gradec;M10;
-1063;Lenart;Andrejc;OK Slovenj Gradec;M10;
-1106;Tejo;Gaber Raj;OK Slovenj Gradec;M10;
-766;Rok;Bogataj;OK Azimut;M14;
-1004;Anže;Obid;OK Azimut;M14;
-1007;Božo;Bizjak;OK Azimut;M14;
-1055;Beno;Bizjak;OK Azimut;M14;
-840;Ožbej;Malus;OK Komenda;M14;
-879;Anže;Kölner;OK Komenda;M14;
-895;Drejc;Malus;OK Komenda;M14;
-915;Jakob;Kurinčič;OK Komenda;M14;
-928;Enej;Šuc;OK Komenda;M14;
-1126;Lovro;Nagy;OK Polaris;M14;
-902;Tevž;Miheljak;OK Slovenj Gradec;M14;
-950;Ištvan;Valič;OK Slovenj Gradec;M14;
-997;Staš;Svetec;OK Slovenj Gradec;M14;
-998;Vidjan;Lenart;OK Slovenj Gradec;M14;
-981;Andraž;Miheljak;OK Slovenj Gradec;M14;
-1064;Ruj David;Mlakar;OK Slovenj Gradec;M14;
-613;Luka;Seljak;OK Komenda;M16;
-884;Jaka;Seljak;OK Komenda;M16;
-897;Jan;Cokan;OK Komenda;M16;
-700;Tilen;Zupan;OK Komenda;M16;
-483;Žiga;Groff;OK Azimut;M18;
-846;Aljaž;Obid;OK Azimut;M18;
-701;Nejc;Turk;OK Komenda;M18;
-956;Matevž;Štifter;OK Slovenj Gradec;M18;
-106;Jožko;Jazbar;OK Azimut;M45;
-176;Aleš;Poljanšek;OK Azimut;M45;
-712;Gregor;Zupan;OK Komenda;M45;
-838;Simon;Kurinčič;OK Komenda;M45;
-893;Tomaž;Pust;OK Komenda;M45;
-904;Franc;Malus;OK Komenda;M45;
-914;Silvo;Babič;OK Komenda;M45;
-967;Igor;Gavrilov;OK Komenda;M45;
-54;Miha;Škarabot;OK Polaris;M45;
-58;Valter;Foški;OK Polaris;M45;
-67;Sandi;Kmetič;OK Polaris;M45;
-69;Dušan;Petrovič;OK Polaris;M45;
-151;Robert;Benko;OK Polaris;M45;
-444;Andrej;Cimerman;OK Polaris;M45;
-283;Blaž;Miheljak;OK Slovenj Gradec;M45;
-98;Igor;Bončina;OK Slovenske Konjice;M45;
-39;Roman;Sladič;ŠOK;M45;
-559;Boris;Eržen;ŠOK;M45;
-288;Mirko;Vodovnik;OK Slovenj Gradec;M60;
-1;Klemen;Kenda;OK Azimut;M21;
-386;Valentin;Eržen;OK Azimut;M21;
-392;Marko;Obid;OK Azimut;M21;
-419;Peter;Tušar;OK Azimut;M21;
-424;Gregor;Hvala;OK Azimut;M21;
-481;Andraž;Drešček;OK Azimut;M21;
-620;Simon;Stanonik;OK Azimut;M21;
-72;Jure;Zmrzlikar;OK Komenda;M21;
-276;Jernej;Zorman;OK Komenda;M21;
-556;Blaž;Kölner;OK Komenda;M21;
-909;Blaž;Jeraj;OK Komenda;M21;
-946;Timotej;Šuc;OK Komenda;M21;
-1086;Andrej;Jarc;OK Komenda;M21;
-2;Miro;Šalamun;OK Polaris;M21;
-70;Blaž;Petrovič;OK Polaris;M21;
-71;Gašper;Petrovič;OK Polaris;M21;
-132;Matej;Škarabot;OK Polaris;M21;
-150;Jan;Šalamun;OK Polaris;M21;
-214;Gregor;Andrejc;OK Slovenj Gradec;M21;
-216;Klemen;Andrejc;OK Slovenj Gradec;M21;
-217;Samo;Cokan;OK Slovenj Gradec;M21;
-230;Hinko;Andrejc;OK Slovenj Gradec;M21;
-282;Gregor;Raj;OK Slovenj Gradec;M21;
-289;David;Andrejc;OK Slovenj Gradec;M21;
-290;Blaž;Marot;OK Slovenj Gradec;M21;
-467;Marko;Dudić;OK Slovenj Gradec;M21;
-470;Žiga;Andrejc;OK Slovenj Gradec;M21;
-640;Marko;Zanoškar;OK Slovenj Gradec;M21;
-854;Primož;Pogorelčnik;OK Slovenj Gradec;M21;
-957;Tomaž;Pritržnik;OK Slovenj Gradec;M21;
-1102;Nejc;Štern;OK Slovenj Gradec;M21;
-1043;Jaka;Cesar;OK Slovenj Gradec;M21;
-62;Boris;Bauman;MOK;M21;
-1034;Uroš;Cankar;ŠOK;M21;
-996;Jerca;Kurinčič;OK Komenda;Ž10;
-1001;Teja;Šuc;OK Komenda;Ž10;
-1040;Mija;Jeraj;OK Komenda;Ž10;
-1105;Ida Antonija;Raj;OK Slovenj Gradec;Ž10;
-1125;Inga;Markovič;OK Slovenj Gradec;Ž10;
-597;Nea;Eržen;OK Azimut;Ž14;
-847;Neža;Obid;OK Azimut;Ž14;
-984;Nika;Eržen;OK Azimut;Ž14;
-987;Špela;Majdič;OK Azimut;Ž14;
-803;Brina;Kölner;OK Komenda;Ž14;
-896;Ajda;Jeraj;OK Komenda;Ž14;
-1029;Ajda;Jarc;OK Komenda;Ž14;
-853;Ema Pika;Raj;OK Slovenj Gradec;Ž14;
-949;Lili Ivana;Raj;OK Slovenj Gradec;Ž14;
-979;Frida;Mezga;OK Slovenj Gradec;Ž14;
-1016;Miša;Andrejc;OK Slovenj Gradec;Ž14;
-1066;Vilina;Lenart;OK Slovenj Gradec;Ž14;
-1104;Klara;Kovše;OK Slovenj Gradec;Ž14;
-898;Vita;Malus;OK Komenda;Ž16;
-399;Anja;Škarabot;OK Polaris;Ž18;
-612;Alenka;Vuga Seljak;OK Komenda;Ž45;
-713;Romana;Zupan;OK Komenda;Ž45;
-892;Petra;Stojan;OK Komenda;Ž45;
-298;Irena;Balažič;OK Slovenj Gradec;Ž45;
-465;Urška;Kordiš Miheljak;OK Slovenj Gradec;Ž45;
-639;Tanja;Mezga;OK Slovenj Gradec;Ž45;
-958;Olga;Pogorevčnik;OK Slovenj Gradec;Ž45;
-1000;Tina;Fras;OK Slovenj Gradec;Ž45;
-257;Nika;Poljanšek;OK Azimut;Ž21;
-421;Nuša;Jeram;OK Azimut;Ž21;
-735;Teja;Tušar;OK Azimut;Ž21;
-930;Maja;Istenič;OK Azimut;Ž21;
-933;Maja;Obid;OK Azimut;Ž21;
-357;Monika;Ravnikar;OK Komenda;Ž21;
-630;Irena;Hacin Kölner;OK Komenda;Ž21;
-818;Katja;Babič;OK Komenda;Ž21;
-912;Petra;Paradiž;OK Komenda;Ž21;
-945;Elena;Gombač Šuc;OK Komenda;Ž21;
-982;Marta;Malus;OK Komenda;Ž21;
-1022;Špela;Bogataj;OK Komenda;Ž21;
-1032;Tina;Močnik;OK Komenda;Ž21;
-66;Eneja;Osterman;OK Polaris;Ž21;
-332;Ana;Šalamun;OK Polaris;Ž21;
-1096;Neža;Sluga;OK Polaris;Ž21;
-203;Nastja;Raj;OK Slovenj Gradec;Ž21;
-294;Petja;Balažič;OK Slovenj Gradec;Ž21;
-229;Maja;Visinski Andrejc;OK Slovenj Gradec;Ž21;
-638;Žana;Prasnic;OK Slovenj Gradec;Ž21;
-1015;Anja;Mihelič Pogorelčnik;OK Slovenj Gradec;Ž21;
-1091;Katka;Šoster;OK Slovenj Gradec;Ž21;
-23;Ana;Pribaković Borštnik;OK Tivoli;Ž21;
-401;Ana;Plavčak;ŠOK;Ž21;
-82;Mojca;Flerin Drevenšek;Kamniški OK;Ž21;
-931;Abigael Vanessa;Bončina;OK Slovenske Konjice;Ž21;
+1160;Luka;Rožič;OK Slovenj Gradec;M10;2013-01-11;Kotlje 6b;2390
+1159;Luka;Košak;OK Slovenj Gradec;M10;2014-02-07;Kopališka ulica 24;2380
+1106;Tejo;Gaber Raj;OK Slovenj Gradec;M10;2012-09-03;Podgorje 204;2380
+997;Staš;Svetec;OK Slovenj Gradec;M14;2008-10-11;Raduše 47;2381
+998;Vidjan;Lenart;OK Slovenj Gradec;M14;2009-02-12;Raduše 3;2380
+981;Andraž;Miheljak;OK Slovenj Gradec;M14;2010-03-03;Pod Graščino 28;2380
+1004;Anže;Obid;OK Azimut;M14;2011-06-08;Pot na Zavrte 16;5282
+950;Ištvan;Valič;OK Slovenj Gradec;M14;2008-02-16;Maistrova 1;2380
+1017;Aljoša;Andrejc;OK Slovenj Gradec;M14;2011-08-01;Pod bregom 24;2380
+928;Enej;Šuc;OK Komenda;M14;2009-06-03;Gabrščkova 22;1000
+1048;Kevin;Kerčmar;OK Azimut;M14;2011-03-02;Cesta na Plužne 3;5282
+1055;Beno;Bizjak;OK Azimut;M14;2009-07-04;Močnikova ulica 9;5282
+1058;Robi;Mlakar;OK Azimut;M14;2010-07-12;Podlanišče 26;5282
+1063;Lenart;Andrejc;OK Slovenj Gradec;M14;2011-12-19;Triglavska ulica 40;4000
+902;Tevž;Miheljak;OK Slovenj Gradec;M16;2007-12-13;Pod Graščino 28;2380
+766;Rok;Bogataj;OK Azimut;M16;2007-08-31;Platiševa 15;5282
+1007;Božo;Bizjak;OK Azimut;M16;2007-05-01;Močnikova ulica 9;5282
+957;Tomaž;Pritržnik;OK Slovenj Gradec;M21;1981-11-29;Podgorje 98a;2381
+2;Miro;Šalamun;OK Polaris;M21;1963-02-20;Sneberska cesta 144 C;1260
+1034;Uroš;Cankar;ŠOK;M21;1988-05-09;Delnice 11A;4223
+1043;Jaka;Cesar;OK Slovenj Gradec;M21;1996-08-07;Ronkova 44;2380
+1131;Tomaž;Pirnat;OK Slovenj Gradec;M21;1996-03-11;Pohorska cesta 5;2382
+470;Žiga;Andrejc;OK Slovenj Gradec;M21;1998-02-17;Kopališka ulica 32;2380
+467;Marko;Dudić;OK Slovenj Gradec;M21;1971-05-05;Ulica Lili Novy 27;1000
+1;Klemen;Kenda;OK Azimut;M21;1978-08-01;Glavni trg 5;5282
+214;Gregor;Andrejc;OK Slovenj Gradec;M21;1979-04-26;Pod bregom 24;2380
+216;Klemen;Andrejc;OK Slovenj Gradec;M21;1995-06-15;Kopališka ulica 32;2380
+71;Gašper;Petrovič;OK Polaris;M21;1999-10-22;Šubljeva ulica 19;1230
+283;Blaž;Miheljak;OK Slovenj Gradec;M21;1975-01-10;Pod Graščino 28;2380
+70;Blaž;Petrovič;OK Polaris;M21;1996-08-29;Šubljeva ulica 19;1230
+65;Iztok;Rojc;OK Polaris;M21;1975-09-20;Trg svobode 3B;5222
+230;Hinko;Andrejc;OK Slovenj Gradec;M21;1956-11-08;Kopališka ulica 32;2380
+62;Boris;Bauman;MOK;M21;1966-03-27;Pod gradiščem 10;2000
+282;Gregor;Raj;OK Slovenj Gradec;M45;1974-11-22;Muratova ulica 24;2380
+106;Jožko;Jazbar;OK Azimut;M45;1970-02-10;Ulica Otona Župančiča 34;5280
+98;Igor;Bončina;OK Slovenske Konjice;M45;1968-03-21;Notranjska cesta 24A;1370
+217;Samo;Cokan;OK Slovenj Gradec;M45;1977-08-23;Celjska cesta 122;2380
+69;Dušan;Petrovič;OK Polaris;M45;1969-11-17;Šubljeva ulica 19;1230
+1107;Boštjan;Bizjak;OK Azimut;M45;1972-02-12;Močnikova ulica 9;5282
+817;Nataša;Bogataj;OK Azimut;M45;1977-06-23;Platiševa ulica 19;5282
+765;Boštjan;Bogataj;OK Azimut;M45;1974-04-16;Platiševa 15;5282
+712;Gregor;Zupan;OK Komenda;M45;1974-12-17;Gmajnica 234;1218
+640;Marko;Zanoškar;OK Slovenj Gradec;M45;1977-06-19;Iršičeva ulica 5;2380
+54;Miha;Škarabot;OK Polaris;M45;1967-04-08;Laze 7;1351
+559;Boris;Eržen;ŠOK;M45;1970-06-14;Podlubnik 85;4220
+288;Mirko;Vodovnik;OK Slovenj Gradec;M60;1956-11-24;Muratova ulica 24;2380
+854;Primož;Pogorelčnik;OK Slovenj Gradec;MB;1980-10-26;Pavčkova 1;2380
+386;Valentin;Eržen;OK Azimut;MB;1980-05-11;Cesta OF 4;5282
+289;David;Andrejc;OK Slovenj Gradec;MB;1986-01-20;Triglavska ulica 30;4000
+946;Timotej;Šuc;OK Komenda;MB;1983-07-19;Gabrščkova 22;1000
+392;Marko;Obid;OK Azimut;MB;1977-08-09;Pot na Zavrte 16;5282
+1105;Ida Antonija;Raj;OK Slovenj Gradec;Ž10;2014-05-26;Muratova ulica 24;2380
+1153;Urša;Rojc;OK Polaris;Ž10;2013-11-08;Trg Svobode 3B;5222
+1125;Inga;Markovič;OK Slovenj Gradec;Ž10;2014-01-11;Celjska cesta 7;2380
+1158;Lana;Košak;OK Slovenj Gradec;Ž14;2010-05-15;Kopališka ulica 24;2380
+1152;Žana;Rojc;OK Polaris;Ž14;2011-09-27;Trg SVobode 3B;5222
+1054;Julija;Bizjak;OK Azimut;Ž14;2011-02-09;Močnikova 9;5282
+1027;Tinkara;Cankar;ŠOK;Ž14;2011-08-30;Delnice 11a;4223
+1018;Ivana;Valič;OK Slovenj Gradec;Ž14;2009-06-29;Maistrova 1;2380
+1066;Vilina;Lenart;OK Slovenj Gradec;Ž14;2011-02-15;Raduše 3;2380
+1016;Miša;Andrejc;OK Slovenj Gradec;Ž14;2010-02-16;Pod bregom 24;2380
+979;Frida;Mezga;OK Slovenj Gradec;Ž14;2010-10-17;Ulica Lili Novy 27;1000
+1001;Teja;Šuc;OK Komenda;Ž14;2011-03-22;Ivane Kobilica 3;1000
+984;Nika;Eržen;OK Azimut;Ž14;2010-07-27;Cesta OF 4;5282
+949;Lili Ivana;Raj;OK Slovenj Gradec;Ž14;2010-06-22;Muratova ulica 24;2380
+853;Ema Pika;Raj;OK Slovenj Gradec;Ž14;2008-10-18;Muratova ulica 24;2380
+987;Špela;Majdič;OK Azimut;Ž16;2007-08-20;Poljane 2a;5282
+597;Nea;Eržen;OK Azimut;Ž16;2007-05-07;Cesta OF 4;5282
+847;Neža;Obid;OK Azimut;Ž16;2007-05-01;Pot na Zavrte 16;5282
+229;Maja;Visinski Andrejc;OK Slovenj Gradec;Ž21;1981-01-19;Pod bregom 24;2380
+332;Ana;Šalamun;OK Polaris;Ž21;2000-08-24;Sneberska cesta 144B;1260
+23;Ana;Pribaković Borštnik;OK Tivoli;Ž21;1964-07-17;Parmska cesta 15;1000
+401;Ana;Plavčak;ŠOK;Ž21;1980-07-07;Pšatnik 18;1211
+638;Žana;Prasnic;OK Slovenj Gradec;Ž21;2000-10-21;Bukovska vas 5;2373
+1091;Katka;Šoster;OK Slovenj Gradec;Ž21;1998-04-25;Tomšičeva ulica 45;2380
+203;Nastja;Raj;OK Slovenj Gradec;Ž21;1981-06-02;Muratova ulica 24;2380
+66;Eneja;Osterman;OK Polaris;Ž21;1986-03-01;Grablovičeva 30;1000
+294;Petja;Balažič;OK Slovenj Gradec;Ž21;1983-05-17;Celjska cesta 7;2380
+82;Mojca;Flerin Drevenšek;Kamniški OK;Ž21;1980-05-04;Vrhpolje pri Kamniku 244;1241
+1015;Anja;Mihelič Porogelčnik;OK Slovenj Gradec;Ž21;1983-04-29;Pavčkova 1;2380
+639;Tanja;Mezga;OK Slovenj Gradec;Ž45;1973-12-22;Ulica Lili Novy 27;1000
+958;Olga;Pogorevčnik;OK Slovenj Gradec;Ž45;1964-01-17;Stari trg;2380
+298;Irena;Balažič;OK Slovenj Gradec;Ž45;1960-07-02;Bukovska vas 9C;2373
+465;Urška;Kordiš Miheljak;OK Slovenj Gradec;Ž45;1975-08-28;Pod Graščino 28;2380
+1000;Tina;Fras;OK Slovenj Gradec;Ž45;1973-11-16;Ulica Stjepana Babonića 113, 10000 Zagreb;2380
+933;Maja;Obid;OK Azimut;ŽB;1978-05-15;Pot na Zavrte 16;5282
+930;Maja;Istenič;OK Azimut;ŽB;1983-01-05;Cesta OF 4;5282
