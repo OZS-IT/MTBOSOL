@@ -56,7 +56,7 @@ for st_lige in range(1,12):
         vCsv(stanjeLige,st_tekem,kat,tek)
 
 if path.isfile('./Resna stanja/MTBOSOL'+str(st_tekem)+'.csv'):
-    g=open('mtbosol_2022.csv','w',encoding='utf-8')
+    g=open('mtbosol_2024.csv','w',encoding='utf-8')
     with open('./Resna stanja/MTBOSOL'+str(st_tekem)+'.csv','r',encoding='utf-8') as f:
         for i in f.readlines():
             g.write(i)
